@@ -1,2 +1,2 @@
 # InstructureCANVAS
-python scripts using canvas API
+python scripts using Instructure's Canvas LMS API
